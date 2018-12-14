@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec1e18d-2552-457a-b8cc-d8abf8e880b9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1841877376">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.115" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.196" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.79" value="2" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="babelrc" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="13" />
+          <entry key="js" value="241" />
+          <entry key="json" value="14" />
+          <entry key="null/jsp_zhaopin/posts" value="9" />
+          <entry key="null/jsp_zhaopin/users" value="24" />
+          <entry key="styl" value="3" />
+          <entry key="vue" value="178" />
+          <entry key="www" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="13" />
+          <entry key="JSON" value="16" />
+          <entry key="JavaScript" value="243" />
+          <entry key="MONGO" value="33" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Stylus" value="3" />
+          <entry key="Vue.js" value="178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="babelrc" value="1" />
+          <entry key="html" value="13" />
+          <entry key="js" value="4580" />
+          <entry key="json" value="218" />
+          <entry key="vue" value="18641" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="13" />
+          <entry key="JSON" value="219" />
+          <entry key="JavaScript" value="4580" />
+          <entry key="Vue.js" value="18641" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>v_left</find>
+      <find>v_right</find>
+      <find>item_input</find>
+      <find>pointer</find>
+      <find>item_label</find>
+      <find>router_container</find>
+      <find>step_icon</find>
+      <find>submit</find>
+      <find>login</find>
+      <find>上一步</find>
+      <find>v-focus</find>
+      <find>form_item</find>
+      <find>disabled=&quot;disabled&quot;</find>
+      <find>v-model</find>
+      <find>firmName</find>
+      <find>req.session.userid</find>
+      <find>row-bg</find>
+      <find>bg-purple</find>
+      <find>postName</find>
+      <find>profile</find>
+      <find>handleChange</find>
+      <find>:</find>
+      <find>input_inner</find>
+      <find>date</find>
+      <find>grid-content</find>
+      <find>gridData</find>
+      <find>width</find>
+      <find>'</find>
+      <find>c_container</find>
+      <find>out</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>show</replace>
+      <replace>step</replace>
+      <replace>:disabled=&quot;!writable&quot;</replace>
+      <replace>post</replace>
+      <replace>=</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gshop-client_final" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/components/HeaderTop/HeaderTop.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Resume/Resume.vue" />
+        <option value="$PROJECT_DIR$/gshop-client_final/src/components/FooterGuide/FooterGuide.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Msite/Miste.vue" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/db/model.js" />
+        <option value="$PROJECT_DIR$/gzhipin-server_final/db/models.js" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/package.json" />
+        <option value="$PROJECT_DIR$/gzhipin-server_blank/db/models.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/api/ajax.js" />
+        <option value="$PROJECT_DIR$/gzhipin-server_blank/routes/index.js" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/app.js" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/util/sms_util.js" />
+        <option value="$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/store/getters.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/components/Loading/Loading.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/loading-test.html" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/.babelrc" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/components/AlertTip/AlertTip.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Imfomation/Imformation.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/FirmInfo/Imformation.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/index.html" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/build/webpack.prod.conf.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Verification/Step1/Step1.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Profile.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Register/Register.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Msite/Msite.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Verification/verification.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/FirmInfo/FirmInfo.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Self/Self.vue" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/db/models.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/Post.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/router/index.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/components/HeaderGuide/HeaderGuide.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/PostPublish/PostPublish.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/main.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/api/index.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/store/mutation-types.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/store/state.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/App.vue" />
+        <option value="$PROJECT_DIR$/jsp-zhaopin-server/routes/index.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/store/mutations.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/store/actions.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/mock/mockServer.js" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/mock/data.json" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Employee/Employee.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/PostShow/PostShow.vue" />
+        <option value="$PROJECT_DIR$/jsp_zhaopin-client/config/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/jsp-zhaopin-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/jsp_zhaopin-client2/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/jsp-zhaopin-server/package.json" />
+      <path value="$PROJECT_DIR$/jsp_zhaopin-client2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="154" />
+    <option name="width" value="1346" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="d&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../项目/硅谷直聘" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\JS\project\gshop-client_final\node_modules\eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JS\project\jsp_zhaopin-client\src\store" />
+      <recent name="E:\JS\project\jsp-zhaopin-server" />
+      <recent name="E:\JS\project\jsp_zhaopin-client\src\pages\Register\images" />
+      <recent name="E:\JS\project\jsp_zhaopin-client\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JS\project\jsp_zhaopin-client\src\pages\Msite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec1e18d-2552-457a-b8cc-d8abf8e880b9" name="Default Changelist" comment="" />
+      <created>1543976625464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543976625464</updated>
+      <workItem from="1543976627398" duration="1217000" />
+      <workItem from="1543978872387" duration="5775000" />
+      <workItem from="1543994499140" duration="17167000" />
+      <workItem from="1544054367473" duration="1314000" />
+      <workItem from="1544055942161" duration="3981000" />
+      <workItem from="1544074286031" duration="182000" />
+      <workItem from="1544242218685" duration="2608000" />
+      <workItem from="1544244883818" duration="1879000" />
+      <workItem from="1544246825586" duration="32000" />
+      <workItem from="1544247513145" duration="1276000" />
+      <workItem from="1544249002391" duration="1346000" />
+      <workItem from="1544252813514" duration="8499000" />
+      <workItem from="1544270900803" duration="124000" />
+      <workItem from="1544322205094" duration="4225000" />
+      <workItem from="1544331297903" duration="1605000" />
+      <workItem from="1544332976252" duration="787000" />
+      <workItem from="1544346132545" duration="3570000" />
+      <workItem from="1544358581055" duration="8616000" />
+      <workItem from="1544403336539" duration="26267000" />
+      <workItem from="1544438689469" duration="378000" />
+      <workItem from="1544439080397" duration="4458000" />
+      <workItem from="1544446483219" duration="6358000" />
+      <workItem from="1544487400164" duration="21222000" />
+      <workItem from="1544518721147" duration="7272000" />
+      <workItem from="1544535568471" duration="3415000" />
+      <workItem from="1544579039288" duration="5900000" />
+      <workItem from="1544597272129" duration="7173000" />
+      <workItem from="1544610586020" duration="885000" />
+      <workItem from="1544620848103" duration="4361000" />
+      <workItem from="1544659838657" duration="5351000" />
+      <workItem from="1544687309321" duration="3940000" />
+      <workItem from="1544697908118" duration="10557000" />
+      <workItem from="1544748793985" duration="9065000" />
+      <workItem from="1544761557982" duration="8108000" />
+      <workItem from="1544779115024" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="189065000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" visible="true" weight="0.31561998" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.31400967" />
+      <window_info anchor="right" id="Mongo Explorer" order="0" weight="0.33509833" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client/gshop-client_final" />
+      <path value="$PROJECT_DIR$/gshop-client_final" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/dist/static/js/vendor.3fcf8f1d332a44767fdc.js" />
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Verification/Step1/Step1.vue" />
+    <entry file="file://$PROJECT_DIR$/jsp-zhaopin-server/util/sms_util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp-zhaopin-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷直聘/gzhipin-client_final/src/redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2159">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷直聘/gzhipin-client_final/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Shop/ShopInfo/ShopInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/MSite/MSite.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Profile/Profile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Search/Search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/components/ShopList/ShopList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/components/ShopCart/ShopCart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/components/ShopHeader/ShopHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2193" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷直聘/gzhipin-server_final/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Shop/Shop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/components/AlertTip/AlertTip.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Register/Register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="134" column="39" lean-forward="true" selection-start-line="134" selection-start-column="39" selection-end-line="134" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/FirmInfo/FirmInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/api/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Profile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/Post.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Verification/verification.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Shop/ShopRatings/ShopRatings.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/pages/Shop/ShopGoods/ShopGoods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp-zhaopin-server/db/models.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Msite/Msite.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="238" column="62" lean-forward="true" selection-start-line="238" selection-start-column="62" selection-end-line="238" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="97" column="6" lean-forward="true" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../项目/硅谷外卖/gshop-client_final/src/mock/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/store/mutation-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Profile/Self/Self.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp-zhaopin-server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="161" column="38" lean-forward="true" selection-start-line="161" selection-start-column="38" selection-end-line="161" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/components/HeaderGuide/HeaderGuide.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/store/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/mock/mockServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/PostPublish/PostPublish.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="108" column="10" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="108" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Post/PostShow/PostShow.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
+          <folding>
+            <element signature="e#332#338#0" expanded="true" />
+            <element signature="e#388#394#0" expanded="true" />
+            <element signature="e#443#449#0" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/pages/Employee/Employee.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp_zhaopin-client/src/mock/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

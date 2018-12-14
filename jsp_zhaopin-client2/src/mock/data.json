@@ -1,0 +1,15 @@
+{
+  "employees|10-15":[
+    {
+      "age|20-40": 20,
+      "bg|1": ["本科", "大专", "硕士", "博士"],
+      "city": "@county(true)",
+      "introduction":"@cparagraph",
+      "name":"@name",
+      "wage|1": ["5K-6K","6K-8K", "8K-15K", "15K-20K"]
+    }
+  ]
+}
+
+
+
