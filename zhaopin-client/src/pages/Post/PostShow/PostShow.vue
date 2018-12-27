@@ -89,7 +89,7 @@
             <textarea id="ability" class="text_inner" v-model="postInfo[modifyIndex].ability"></textarea>
           </div>
         </el-col>
-        <el-button class="btn" @click="isModify=!isModify">取消</el-button>
+        <el-button class="btn" @click="cancel">取消</el-button>
         <el-button class="btn" type="success" @click="submitModify">保存</el-button>
       </el-row>
     </div>
@@ -130,6 +130,11 @@
           message: '功能尚在开发中',
           type: 'error'
         })
+      },
+      cancel(){
+        this.isModify=!this.isModify
+        //发请求获取postInfo，还原数据，有没有更好的方案
+        this.$store.dispatch('getPostInfo')
       }
     },
     computed:{
@@ -220,5 +225,6 @@
       .btn
         margin-top 68px
         margin-left 5px
+
 
 </style>
